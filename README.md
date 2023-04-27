@@ -1,2 +1,2 @@
 # ECTR
-Easy Ctr (Control) it's piece of code for fast and easy coding on PHP
+Easy Ctr (control) is a code snippet for quick and easy coding in PHP
