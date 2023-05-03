@@ -1,9 +1,5 @@
 <?php
-/**
- * QR_BarCode - Barcode QR Code Image Generator
- * @author Legend Blogs
- * @url http://www.legendblogs.com
- */
+
 class QR_BarCode{
     
     // Google Chart API URL
